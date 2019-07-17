@@ -15,3 +15,11 @@ For advanced users, this project can be used for general purpose I/O expansion, 
 Note: The terminal blocks included with your product may be blue or black.
 
 [For a detailed tutorial on usage, including an Arduino library, wiring diagrams, and files, please visit the product page](http://learn.adafruit.com/i2c-spi-lcd-backpack)
+
+### License
+
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
+
+Designed by Limor Fried/Ladyada for Adafruit Industries.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
